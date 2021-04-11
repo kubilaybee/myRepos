@@ -1,7 +1,7 @@
 ### Kubilay Repos
 
 #### Projeler
-</br>
+
 [Sayaç App](https://github.com/kubilaybee/CountProject) <br/></br>
 
 [Kurpiyer App](https://github.com/kubilaybee/Playing-Card-App/blob/master/README.md) <br/></br>
