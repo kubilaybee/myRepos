@@ -10,7 +10,11 @@
 
 [Calculator App](https://github.com/kubilaybee/Calculator-App/blob/master/README.md) <br/><br/>
 
+[Birthday Card App](https://github.com/kubilaybee/Birthday-Card-App/blob/master/README.md) <br/><br/>
+
 [Ideal Kilo App](https://github.com/kubilaybee/idealKiloApp/blob/master/README.md) <br/></br>
+
+[ToDoList App](https://github.com/kubilaybee/ToDoListApp/blob/master/README.md) <br/><br/>
 
 [SendMail App](https://github.com/kubilaybee/sendMail/blob/master/README.md) <br/><br/>
 
